@@ -1,0 +1,157 @@
+body
+{
+    padding-top: 0;
+    padding-left: 19rem;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    padding-top: 54px;
+    color: #868e96;
+    display: flex;
+}
+.test
+{
+    background-color: #495057;
+    padding: 20px;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 25px;
+    
+}
+.test:hover
+{
+    background-color: #bd5d38;
+} 
+
+.sub-heading
+{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Saira Extra Condensed',serif;
+    font-size: 1.35rem;
+}
+
+.my-auto p
+{
+    margin-bottom: 3rem!important;
+}
+section.section-resume
+{
+    border-bottom: 1px solid #dee2e6;
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+    min-height: 100vh;
+}  
+.header
+{
+    flex-direction: column;
+    width: 17rem;
+    height: 100%;
+    background-color: #bd5d38 !important;
+    text-align: center;
+   
+}
+
+.pic img
+{
+    
+    border: .5rem solid rgba(255,255,255,.2);
+    width: 60%;
+    margin: 50px 0;
+    
+}
+
+ul
+{
+    list-style: none;
+    margin-right: 25px;
+    
+    
+}
+.first li a
+{
+  padding: .5rem 1rem;
+}
+.list-inline 
+{
+    font-size: 3rem; 
+}
+.pic
+{
+    padding-right: 10px;
+}
+a
+{
+    text-decoration: none;
+}
+
+li
+{
+    font-weight: 600;
+    
+    
+}
+
+li a
+{
+    color: rgba(255,255,255,.5);
+    text-decoration: none;
+    
+}
+
+li a:hover
+{
+    color: #fff;
+    
+}
+
+li a.active
+{
+    color: #fff;
+}
+
+.container
+{
+    margin-left: 300px;
+}
+
+
+h1
+{
+    font-size: 6rem;
+    line-height: 5.5rem;
+    font-family: 'Saira Extra Condensed', sans-serif;
+
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+    margin-bottom: 0;
+}
+
+.text-primary 
+{
+    color: #bd5d38!important;
+}
+    
+.my-auto a
+{
+    color: #bd5d38;
+}
+
+
+#home
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+h2
+{
+   font-size: 3.5rem; 
+}
+
+h2,h3
+{
+    
+    font-family: 'Saira Extra Condensed',serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+}
